@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kikkersprong</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#3FB035</color>
+
+    <!-- ScanActivty strings -->
+    <string name="scanButton">Scan!</string>
+    <string name="title_activity_user">UserActivity</string>
+
+    <!-- UserActivity strings -->
+    <string name="checkInButton">Check in</string>
+    <string name="checkOutButton">Check out</string>
+    <string name="overzichtButton">Overzicht</string>
+    <string name="voornaam">Voornaam</string>
+    <string name="naam">Naam</string>
+    <string name="title_activity_child_overview">ChildOverviewActivity</string>
+    <string name="title_activity_financial">FinancialActivity</string>
+    
+     <!-- UserActivity strings -->
+     <string name ="factuurButton">Maak facturen</string>
+
+</resources>
